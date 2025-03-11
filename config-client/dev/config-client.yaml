@@ -1,3 +1,1 @@
-app:
-  name: MyApp
-  env: dev
+message=Hello,dev!
