@@ -1,1 +1,3 @@
-message=Hello,master!
+app:
+  name: MyApp
+  env: master

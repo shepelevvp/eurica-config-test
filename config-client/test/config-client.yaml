@@ -1,1 +1,3 @@
-message=Hello,test!
+app:
+  name: MyApp
+  env: test
